@@ -10,7 +10,7 @@ development:
   timeout: 5000
   encoding: utf8
   username: root
-  password: 123
+  password: qwerty
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
